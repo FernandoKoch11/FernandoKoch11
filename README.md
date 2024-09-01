@@ -2,6 +2,6 @@
 
 Me chamo Fernando Koch.
 
-- Estou aprendendo programação.
-- Quero aprende Phyton, Java Script, Fluter e C++.
+- Estou aprendendo programação e quero me tornar um Dev
+- Estou estudando Phyton, Java Script, Fluter, Html e CSS.
 - Utilizo esse espaço para organizar meus projetos, e aprender mais sobre essas linguagens.
