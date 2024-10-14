@@ -19,6 +19,7 @@ Olá! Sou um desenvolvedor **freelancer** com experiência em **automação**, *
 - **Scikit-learn**: Treinamento de modelos de Inteligência Artificial.
 - **Google ML Kit**: APIs de análise de vídeo e imagem para rotular imagens e detectar códigos de barras, textos, rostos e objetos por meio de Machine Learning.
 - **Plotly**: Biblioteca Python Para geração de gráficos, utilizado para análize de dados.
+- **CustomTkinter**: Criação de Interfaces Gráfcas em Python.
 
 ### Desenvolvimento Web
 - **Front-end**: Criação de interfaces dinâmicas e responsivas.
@@ -38,15 +39,16 @@ Atualmente, ofereço soluções customizadas como freelancer, especialmente em p
 
 ## Projetos Recentes
 
-### 1. [Bot Cadastro de Produtos](https://github.com/FernandoKoch11/Bot_Cadastro_Produtos).
+### 1. [Bot Cadastro de Produtos](https://github.com/FernandoKoch11/Bot_Cadastro_Produtos)
 Um sistema automatizado para login e cadastro de produtos em um site de demonstração. Este projeto utiliza as bibliotecas **pyautogui** e **pandas** para realizar o cadastro eficiente e seguro de dados. 
 - **Tecnologias**: Python, PyAutoGUI, Pandas.
 
 ### 2. Wheelchair Controller App
 Um projeto em desenvolvimento focado no controle de cadeiras de rodas por meio de comandos realizados com movimentos faciais. A proposta é melhorar a acessibilidade com um aplicativo de controle inteligente.
 
-### 3. Conversor de Moedas em Tempo Real
+### 3. [Conversor de Moedas em Tempo Real](https://github.com/FernandoKoch11/Currency_Converter)
 Desenvolvi um conversor de moedas que acessa cotações em tempo real e realiza cálculos precisos para diferentes moedas utilizando a [AwesomeApi](https://docs.awesomeapi.com.br/api-de-moedas).
+-**Tecnologias**: Python, CustomTkinter, AwesomeApi.
 
 ### 4. Automação de E-mails com Google Sheets
 Projeto que integra **Google Sheets** com o envio automatizado de e-mails via **Gmail API** e **SMTP**. Ideal para automação de rotinas administrativas e comunicação.
