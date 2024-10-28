@@ -60,6 +60,7 @@ Um sistema automatizado para login e cadastro de produtos em um site de demonstr
 
 ### 2. Wheelchair Controller App
 Um projeto em desenvolvimento focado no controle de cadeiras de rodas por meio de comandos realizados com movimentos faciais. A proposta é melhorar a acessibilidade com um aplicativo de controle inteligente.
+- **Tecnologias**: Flutter, Dart, Google MlKit, Machine Learn, Face Recognition, automation, bluettoth
 
 ### 3. [Conversor de Moedas em Tempo Real](https://github.com/FernandoKoch11/Currency_Converter)
 Desenvolvi um conversor de moedas que acessa cotações em tempo real e realiza cálculos precisos para diferentes moedas utilizando a [AwesomeApi](https://docs.awesomeapi.com.br/api-de-moedas).
@@ -68,6 +69,9 @@ Desenvolvi um conversor de moedas que acessa cotações em tempo real e realiza 
 ### 4. Automação de E-mails com Google Sheets
 Projeto que integra **Google Sheets** com o envio automatizado de e-mails via **Gmail API** e **SMTP**. Ideal para automação de rotinas administrativas e comunicação.
 
+### 5. Chat App
+Um projeto de aplicação de chat em tempo real, projetado para facilitar a comunicação em uma interface segura e intuitiva. Desenvolvido com Node.js, Express e SQLite, este aplicativo oferece um sistema de cadastro e autenticação de usuários, recuperação de senha e uma interface amigável.
+- **Tecnologias**: JavaScript, Node.js, login-system, websocket, database
 ---
 
 
