@@ -64,9 +64,6 @@ Atualmente, ofereço soluções customizadas como freelancer, especialmente em p
 Um sistema automatizado para login e cadastro de produtos em um site de demonstração. Este projeto utiliza as bibliotecas **pyautogui** e **pandas** para realizar o cadastro eficiente e seguro de dados. 
 - **Tecnologias**: Python, PyAutoGUI, Pandas.
 
-### 2. Wheelchair Controller App
-Um projeto em desenvolvimento focado no controle de cadeiras de rodas por meio de comandos realizados com movimentos faciais. A proposta é melhorar a acessibilidade com um aplicativo de controle inteligente.
-- **Tecnologias**: Flutter, Dart, Google MlKit, Machine Learn, Face Recognition, automation, bluettoth
 
 ### 3. [Conversor de Moedas em Tempo Real](https://github.com/FernandoKoch11/Currency_Converter)
 Desenvolvi um conversor de moedas que acessa cotações em tempo real e realiza cálculos precisos para diferentes moedas utilizando a [AwesomeApi](https://docs.awesomeapi.com.br/api-de-moedas).
